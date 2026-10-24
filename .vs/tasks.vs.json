@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Practica1",
+      "appliesTo": "Practica1.asm",
+      "type": "launch"
+    }
+  ]
+}

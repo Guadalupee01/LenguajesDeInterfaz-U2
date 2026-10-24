@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Irvine\\examples\\Project32_VS2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 14. CAPTURA Y ALMACENAMIENTO DE DATO NUMERICO.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 14. CAPTURA Y ALMACENAMIENTO DE DATO NUMERICO.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 13. STRING HEXADECIMAL.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 13. STRING HEXADECIMAL.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 11. OPERACIONES LOGICAS.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 11. OPERACIONES LOGICAS.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 10. CADENA CON DECIMAL.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 10. CADENA CON DECIMAL.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 9. PUSH Y POP.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 9. PUSH Y POP.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 7. VALIDACI\u00D3N DE FORMATO.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 7. VALIDACI\u00D3N DE FORMATO.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 8. OPERACIONES ARITMETICAS.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 8. OPERACIONES ARITMETICAS.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 6.1 CONTROL DE OCUPACION DE UN ESTACIONAMIENTO.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 6.1 CONTROL DE OCUPACION DE UN ESTACIONAMIENTO.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 6. DECREMENTO E INCREMENTO.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 6. DECREMENTO E INCREMENTO.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 5.1 REPETIR HASTA QUE EL USUARIO INGRESE 0.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 5.1 REPETIR HASTA QUE EL USUARIO INGRESE 0.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 4.1 MAYOR, MENOR O IGUAL CON ENTRADA DEL USUARIO.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 4.1 MAYOR, MENOR O IGUAL CON ENTRADA DEL USUARIO.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 5. CONDICIONALES.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 5. CONDICIONALES.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 4. SALTOS.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 4. SALTOS.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 3. COMPARACI\u00D3N Y PRUEBA.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 3. COMPARACI\u00D3N Y PRUEBA.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 2. CAPTURA Y DESPLEGADO DE MENSAJE.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 2. CAPTURA Y DESPLEGADO DE MENSAJE.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 1. CICLOS NUMERICOS.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 1. CICLOS NUMERICOS.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\Hola mundo sin irvine 32.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:Hola mundo sin irvine 32.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 15. MANIPULACI\u00D3N DE ARCHIVO.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 15. MANIPULACI\u00D3N DE ARCHIVO.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 12. DESPLAZAMIENTO Y ROTACION.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 12. DESPLAZAMIENTO Y ROTACION.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PRACTICA 14. CAPTURA Y ALMACENAMIENTO DE DATO NUMERICO.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 14. CAPTURA Y ALMACENAMIENTO DE DATO NUMERICO.asm",
+              "RelativeDocumentMoniker": "PRACTICA 14. CAPTURA Y ALMACENAMIENTO DE DATO NUMERICO.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 14. CAPTURA Y ALMACENAMIENTO DE DATO NUMERICO.asm",
+              "RelativeToolTip": "PRACTICA 14. CAPTURA Y ALMACENAMIENTO DE DATO NUMERICO.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:12:22.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PRACTICA 13. STRING HEXADECIMAL.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 13. STRING HEXADECIMAL.asm",
+              "RelativeDocumentMoniker": "PRACTICA 13. STRING HEXADECIMAL.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 13. STRING HEXADECIMAL.asm",
+              "RelativeToolTip": "PRACTICA 13. STRING HEXADECIMAL.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:12:01.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PRACTICA 11. OPERACIONES LOGICAS.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 11. OPERACIONES LOGICAS.asm",
+              "RelativeDocumentMoniker": "PRACTICA 11. OPERACIONES LOGICAS.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 11. OPERACIONES LOGICAS.asm",
+              "RelativeToolTip": "PRACTICA 11. OPERACIONES LOGICAS.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:11:12.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PRACTICA 10. CADENA CON DECIMAL.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 10. CADENA CON DECIMAL.asm",
+              "RelativeDocumentMoniker": "PRACTICA 10. CADENA CON DECIMAL.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 10. CADENA CON DECIMAL.asm",
+              "RelativeToolTip": "PRACTICA 10. CADENA CON DECIMAL.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:09:19.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PRACTICA 7. VALIDACI\u00D3N DE FORMATO.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 7. VALIDACI\u00D3N DE FORMATO.asm",
+              "RelativeDocumentMoniker": "PRACTICA 7. VALIDACI\u00D3N DE FORMATO.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 7. VALIDACI\u00D3N DE FORMATO.asm",
+              "RelativeToolTip": "PRACTICA 7. VALIDACI\u00D3N DE FORMATO.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:07:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PRACTICA 9. PUSH Y POP.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 9. PUSH Y POP.asm",
+              "RelativeDocumentMoniker": "PRACTICA 9. PUSH Y POP.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 9. PUSH Y POP.asm",
+              "RelativeToolTip": "PRACTICA 9. PUSH Y POP.asm",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T05:52:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PRACTICA 8. OPERACIONES ARITMETICAS.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 8. OPERACIONES ARITMETICAS.asm",
+              "RelativeDocumentMoniker": "PRACTICA 8. OPERACIONES ARITMETICAS.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 8. OPERACIONES ARITMETICAS.asm",
+              "RelativeToolTip": "PRACTICA 8. OPERACIONES ARITMETICAS.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:08:12.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PRACTICA 6.1 CONTROL DE OCUPACION DE UN ESTACIONAMIENTO.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 6.1 CONTROL DE OCUPACION DE UN ESTACIONAMIENTO.asm",
+              "RelativeDocumentMoniker": "PRACTICA 6.1 CONTROL DE OCUPACION DE UN ESTACIONAMIENTO.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 6.1 CONTROL DE OCUPACION DE UN ESTACIONAMIENTO.asm",
+              "RelativeToolTip": "PRACTICA 6.1 CONTROL DE OCUPACION DE UN ESTACIONAMIENTO.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:06:57.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PRACTICA 6. DECREMENTO E INCREMENTO.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 6. DECREMENTO E INCREMENTO.asm",
+              "RelativeDocumentMoniker": "PRACTICA 6. DECREMENTO E INCREMENTO.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 6. DECREMENTO E INCREMENTO.asm",
+              "RelativeToolTip": "PRACTICA 6. DECREMENTO E INCREMENTO.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:05:47.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PRACTICA 5.1 REPETIR HASTA QUE EL USUARIO INGRESE 0.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 5.1 REPETIR HASTA QUE EL USUARIO INGRESE 0.asm",
+              "RelativeDocumentMoniker": "PRACTICA 5.1 REPETIR HASTA QUE EL USUARIO INGRESE 0.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 5.1 REPETIR HASTA QUE EL USUARIO INGRESE 0.asm",
+              "RelativeToolTip": "PRACTICA 5.1 REPETIR HASTA QUE EL USUARIO INGRESE 0.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:05:02.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PRACTICA 4.1 MAYOR, MENOR O IGUAL CON ENTRADA DEL USUARIO.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 4.1 MAYOR, MENOR O IGUAL CON ENTRADA DEL USUARIO.asm",
+              "RelativeDocumentMoniker": "PRACTICA 4.1 MAYOR, MENOR O IGUAL CON ENTRADA DEL USUARIO.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 4.1 MAYOR, MENOR O IGUAL CON ENTRADA DEL USUARIO.asm",
+              "RelativeToolTip": "PRACTICA 4.1 MAYOR, MENOR O IGUAL CON ENTRADA DEL USUARIO.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:04:18.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PRACTICA 5. CONDICIONALES.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 5. CONDICIONALES.asm",
+              "RelativeDocumentMoniker": "PRACTICA 5. CONDICIONALES.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 5. CONDICIONALES.asm",
+              "RelativeToolTip": "PRACTICA 5. CONDICIONALES.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:03:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PRACTICA 4. SALTOS.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 4. SALTOS.asm",
+              "RelativeDocumentMoniker": "PRACTICA 4. SALTOS.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 4. SALTOS.asm",
+              "RelativeToolTip": "PRACTICA 4. SALTOS.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:02:50.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PRACTICA 3. COMPARACI\u00D3N Y PRUEBA.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 3. COMPARACI\u00D3N Y PRUEBA.asm",
+              "RelativeDocumentMoniker": "PRACTICA 3. COMPARACI\u00D3N Y PRUEBA.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 3. COMPARACI\u00D3N Y PRUEBA.asm",
+              "RelativeToolTip": "PRACTICA 3. COMPARACI\u00D3N Y PRUEBA.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:02:39.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PRACTICA 2. CAPTURA Y DESPLEGADO DE MENSAJE.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 2. CAPTURA Y DESPLEGADO DE MENSAJE.asm",
+              "RelativeDocumentMoniker": "PRACTICA 2. CAPTURA Y DESPLEGADO DE MENSAJE.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 2. CAPTURA Y DESPLEGADO DE MENSAJE.asm",
+              "RelativeToolTip": "PRACTICA 2. CAPTURA Y DESPLEGADO DE MENSAJE.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:01:51.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PRACTICA 1. CICLOS NUMERICOS.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 1. CICLOS NUMERICOS.asm",
+              "RelativeDocumentMoniker": "PRACTICA 1. CICLOS NUMERICOS.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 1. CICLOS NUMERICOS.asm",
+              "RelativeToolTip": "PRACTICA 1. CICLOS NUMERICOS.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T06:00:59.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PRACTICA 15. MANIPULACI\u00D3N DE ARCHIVO.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 15. MANIPULACI\u00D3N DE ARCHIVO.asm",
+              "RelativeDocumentMoniker": "PRACTICA 15. MANIPULACI\u00D3N DE ARCHIVO.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 15. MANIPULACI\u00D3N DE ARCHIVO.asm",
+              "RelativeToolTip": "PRACTICA 15. MANIPULACI\u00D3N DE ARCHIVO.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T05:59:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hola mundo sin irvine 32.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\Hola mundo sin irvine 32.asm",
+              "RelativeDocumentMoniker": "Hola mundo sin irvine 32.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\Hola mundo sin irvine 32.asm",
+              "RelativeToolTip": "Hola mundo sin irvine 32.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T05:44:12.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PRACTICA 12. DESPLAZAMIENTO Y ROTACION.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 12. DESPLAZAMIENTO Y ROTACION.asm",
+              "RelativeDocumentMoniker": "PRACTICA 12. DESPLAZAMIENTO Y ROTACION.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 12. DESPLAZAMIENTO Y ROTACION.asm",
+              "RelativeToolTip": "PRACTICA 12. DESPLAZAMIENTO Y ROTACION.asm",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T05:57:33.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

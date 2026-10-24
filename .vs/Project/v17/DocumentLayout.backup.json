@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Irvine\\examples\\Project32_VS2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 9. PUSH Y POP.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:PRACTICA 9. PUSH Y POP.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Irvine\\examples\\Project32_VS2019\\Hola mundo sin irvine 32.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:Hola mundo sin irvine 32.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PRACTICA 9. PUSH Y POP.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 9. PUSH Y POP.asm",
+              "RelativeDocumentMoniker": "PRACTICA 9. PUSH Y POP.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\PRACTICA 9. PUSH Y POP.asm",
+              "RelativeToolTip": "PRACTICA 9. PUSH Y POP.asm",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwDAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T05:52:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hola mundo sin irvine 32.asm",
+              "DocumentMoniker": "C:\\Irvine\\examples\\Project32_VS2019\\Hola mundo sin irvine 32.asm",
+              "RelativeDocumentMoniker": "Hola mundo sin irvine 32.asm",
+              "ToolTip": "C:\\Irvine\\examples\\Project32_VS2019\\Hola mundo sin irvine 32.asm",
+              "RelativeToolTip": "Hola mundo sin irvine 32.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T05:44:12.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
